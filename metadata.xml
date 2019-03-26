@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
     <name>Reroll Dice can Expire!</name>
-    <directory>reroll_dice_expire</directory>
-    <id>1693459570</id>
+    <directory>reroll-dice-expire-mod</directory>
+    <id>1694348541</id>
     <description>Think the D Infinity is too strong? Want your D4 runs to be even more chaotic??
 
 This mod adds a sense of impermanence to the D4, D100, and DInfinity. Every reroll has a 10% chance to remove the die, leaving you stuck with your latest reroll. For the D Infinity, this only occurs when it imitates the D4 or D100.</description>
-    <version>1.0</version>
+    <version>1.1</version>
     <visibility>Public</visibility>
     <tag id="Active Items"/>
     <tag id="Tweaks"/>
